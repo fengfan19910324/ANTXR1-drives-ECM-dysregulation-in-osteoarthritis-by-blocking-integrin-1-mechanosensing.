@@ -1,4 +1,4 @@
-Osteoarthritis Transcriptomics Analysis (v1.0.0)
+Osteoarthritis Transcriptomics Analysis (v1.0)
 
 Associated Manuscript
 
